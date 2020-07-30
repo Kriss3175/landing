@@ -1,0 +1,16 @@
+.container {
+width: 900px;
+margin: 0px auto;
+color: white;
+}
+
+.container h2 {
+  display: block;
+  font-size: 24px;
+  margin-block-start: 30px;
+  margin-block-end: 45px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  text-align: center;
+}
